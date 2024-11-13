@@ -10,3 +10,9 @@ options:
   -h, --help    show this help message and exit
   -d, --docker  for a docker compose thing 
   -n, --native  for native hosting or editing existing container i think 
+
+modlist file must be a textfile with one mod link per line
+example: 
+https://steamcommunity.com/sharedfiles/filedetails/?id=[mod1numbers]
+https://steamcommunity.com/sharedfiles/filedetails/?id=[mod2numbers]
+and so on
