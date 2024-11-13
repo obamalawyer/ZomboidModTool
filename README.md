@@ -8,5 +8,5 @@ positional arguments:
 
 options:
   -h, --help    show this help message and exit
-  -d, --docker  for a docker compose thing (default: False)
-  -n, --native  for native hosting or editing existing container i think (default: False)
+  -d, --docker  for a docker compose thing 
+  -n, --native  for native hosting or editing existing container i think 
