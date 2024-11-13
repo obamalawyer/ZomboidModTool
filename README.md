@@ -1,4 +1,5 @@
 Tool to add Mods to your Project Zomboid Server
+
 usage: zomboid.py [-h] [-d | -n] config modlist
 
 Project Zomboid Mod Adding Thing
